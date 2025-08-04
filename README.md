@@ -28,11 +28,14 @@ Label Encoding for binary classification
 Train-Test Split for model evaluation
 
 📜 License:
+
 This project is licensed under the MIT License.
 
 🤝 Contributing:
+
 We welcome contributions!
 Feel free to fork the repository, open issues, or submit pull requests to enhance the project.
 
 📞 Contact:
+
 For any questions or suggestions, contact: howladarkunal@gmail.com
