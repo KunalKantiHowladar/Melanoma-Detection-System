@@ -25,13 +25,17 @@ Matplotlib & Seaborn 📈 for visualization
 Clone the repository and install the required dependencies:
 
 git clone https://github.com/yourusername/melanoscan.git
+
 cd melanoscan
+
 pip install -r requirements.txt
+
 Place your skin lesion images in the dataset folder.
 
 Run the preprocessing and training scripts:
 
 python data_preprocessing.py
+
 python train.py
 
 Test the model on new images:
