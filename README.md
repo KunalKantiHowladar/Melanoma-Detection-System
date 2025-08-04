@@ -1,6 +1,6 @@
 📌 Overview:
 
-MelanoScan is a deep learning-based melanoma detection system designed to assist in the early and accurate diagnosis of skin cancer.
+MelanoScan is a CNN-based melanoma detection system designed to assist in the early and accurate diagnosis of skin cancer.
 It leverages image classification techniques using TensorFlow/Keras to predict whether a given skin lesion image indicates melanoma.
 By integrating robust preprocessing and data augmentation, the model enhances accuracy and reduces overfitting on medical imaging data.
 
